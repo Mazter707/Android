@@ -6,4 +6,5 @@ package com.mazter707.tutorialuno.Objetos;
 
 public class FirebaseReferences {
     final public static String TUTORIAL_REFERENCES = "Tutorial";
+    final public static String COCHE_REFERENCES = "coches";
 }
